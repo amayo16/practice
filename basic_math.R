@@ -1,6 +1,7 @@
 #This is a practice for class
 
 x <- 5
+m <- x
 y <- 3
-z <- x - y
+z <- m - y
 print(z)
